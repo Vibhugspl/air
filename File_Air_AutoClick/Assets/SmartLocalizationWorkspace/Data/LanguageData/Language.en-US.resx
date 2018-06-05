@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="Anim-01" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Anim-02" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Anim-03" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Anim-04" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Anim-05" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Anim-06" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Anim-07" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Blank" xml:space="preserve">
+		<value />
+	</data>
+	<data name="ButtonIntroBg" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_ActivityMenu" xml:space="preserve">
+		<value>Activity menu</value>
+	</data>
+	<data name="C_Btn_No" xml:space="preserve">
+		<value>No</value>
+	</data>
+	<data name="C_Btn_Quit" xml:space="preserve">
+		<value>Quit</value>
+	</data>
+	<data name="C_Btn_RestartActivity" xml:space="preserve">
+		<value>Restart activity</value>
+	</data>
+	<data name="C_Btn_Resume" xml:space="preserve">
+		<value>Resume</value>
+	</data>
+	<data name="C_Btn_Yes" xml:space="preserve">
+		<value>Yes</value>
+	</data>
+	<data name="C_Inst_QuitMessage" xml:space="preserve">
+		<value>Are you sure you want to quit?</value>
+	</data>
+	<data name="Close" xml:space="preserve">
+		<value />
+	</data>
+	<data name="CompleteTourTxt" xml:space="preserve">
+		<value>You have completed this virtual tour. Select OK to return to the menu where you can exit.</value>
+	</data>
+	<data name="Home" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Menu" xml:space="preserve">
+		<value />
+	</data>
+	<data name="Ost1" xml:space="preserve">
+		<value>Move your head to observe the surroundings of the Taj Mahal and with the help of your joystick, reach the first tag point</value>
+	</data>
+	<data name="Ost2" xml:space="preserve">
+		<value>Now, move to the next tag point</value>
+	</data>
+	<data name="Ost3" xml:space="preserve">
+		<value>Follow the arrows to move to the inner chamber</value>
+	</data>
+	<data name="Ost4" xml:space="preserve">
+		<value>Follow the arrows to move to the lower chamber</value>
+	</data>
+	<data name="Ost5" xml:space="preserve">
+		<value>Follow the arrows to exit and reach the next tag point</value>
+	</data>
+	<data name="Ost6" xml:space="preserve">
+		<value>Click Day/Night Mode to view the night view of the Taj Mahal</value>
+	</data>
+	<data name="Restart" xml:space="preserve">
+		<value>Restart</value>
+	</data>
+	<data name="StartingMainGate" xml:space="preserve">
+		<value>Starting from the main gate to the square base of mausoleum, the Taj complex is surrounded by beautiful gardens, flower beds, water channels, and fountains.
+These gardens are divided into four square gardens of 300 metres by 300 metres each, with two main walkways and narrow cross-axial walkways for each, based on the ‘Persian Timurid’ style of garden.
+The beauty of these gardens is enhanced with this fountain in the middle.
+The water channels down the centre of the garden exhibit a perfect symmetry of this architecture. And reflecting in these water channels is the centre of attraction of this complex—the crown of the palace—the Taj Mahal.</value>
+	</data>
+	<data name="Step_1" xml:space="preserve">
+		<value>The Taj Mahal</value>
+	</data>
+	<data name="Step_2" xml:space="preserve">
+		<value>How was it built?</value>
+	</data>
+	<data name="Step_3" xml:space="preserve">
+		<value>The Taj complex</value>
+	</data>
+	<data name="Step_4" xml:space="preserve">
+		<value>The mausoleum</value>
+	</data>
+	<data name="Step_5" xml:space="preserve">
+		<value>The night view</value>
+	</data>
+	<data name="TajOK" xml:space="preserve">
+		<value>OK</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>Taj Mahal–The Memorial Legacy of Love</value>
+	</data>
+</root>

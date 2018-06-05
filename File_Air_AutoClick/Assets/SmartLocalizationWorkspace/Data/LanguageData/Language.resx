@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="Anim-01" xml:space="preserve">
+		<value>Flaunting its grandeur near the banks of the River Yamuna, the Taj Mahal is a symbol of eternal love and passion. Built by the great Mughal emperor, Shah Jahan, the Taj Mahal is indeed an architectural jewel possessed by India. It holds a special place in the history of India, and not just a monument, but also a story in itself.
+The Taj Mahal is one of the most popular World Heritage Sites listed by UNESCO. It is a true example of the rich Mughal architecture of India. Every year, millions of visitors from across the globe visit the Taj Mahal to get enchanted with its magnificence.
+Out of Shah Jahan's three wives, Mumtaz Mahal was his most beloved empress. He got married to Mumtaz at the age of 15. They were married for 19 years during which they had 13 children. In 1631, Mumtaz Mahal died during the birth of Shah Jahan's 14th child.
+The demise of his lady love left a huge impact on Shah Jahan. The king secluded himself from the outer world and was in deep agony for almost two weeks. According to historic sources, it is said that Mumtaz Mahal had once wished for an extremely beautiful mausoleum. One that no one in the world had seen before. 
+It was when she passed away, that Shah Jahan dedicated the rest of his life to gift his deceased wife a final resting place in the most magnificent mausoleum of the world. Emerged from king's dream was a perfect combination of power and love - The Taj Mahal.</value>
+	</data>
+	<data name="Anim-02" xml:space="preserve">
+		<value>Under the guidance of chief architect Ustad Ahmad Lahauri, the construction work of the Taj began in 1632. Approximately, 20,000 skilled craftsmen including stone cutters, carvers, calligraphers, dome builders, and painters were brought in from throughout the empire and the world to work on this immense project.
+Building something near a water body was not easy for the architects.
+They took the biggest challenge and decided to lay a well-planned foundation for the tomb. This was a revolutionary thought in the history of architecture at that time. 
+They dug deep wells below the water table and filled them with rocks and mortar. On the base, they built stone pillars and linked them together with huge arches. The result was a rock solid base to support the foundation of the building that could not be harmed for centuries.
+Soon the structure of the Taj Mahal was ready to be decorated with glazing Makrana marble that was brought especially from Rajasthan. The construction of the mausoleum got completed in 1643, however the work on other parts of the complex continued for another ten years.
+The Taj Mahal, in its entirety, got completed in 1653.
+Since then, the Taj Mahal has become the most spectacular architectural marvel gifted by Shah Jahan to the world.
+The Mughal architects used various optical tricks when building the Taj Mahal. These 40 metre tall minarets are one such example.
+Adding a three dimensional view to the structure, these four minarets were tilted slightly outwards so that in case of a natural calamity like an earthquake, these would fall outside, sparing the mighty dome from disaster.
+The Taj complex is spread through an area of 42 acres of land. It comprises an enormous entry gate, a mosque, a guest house, four minarets, and the tomb of Mumtaz Mahal.
+The entrance of the Taj Mahal is a huge mighty, red sandstone doorway that adorns the Taj like a jewel. With flamboyant inlaid patterns and detailed artwork, every corner of this doorway tells the story of sheer hard work and excellence. Mughals were the followers of Islam which is depicted in their architecture too. For example, these inscriptions depict 'The promise of Allah’ as written in the Holy Quran.
+As you reach the gateway, the Taj looks magnified, but as you move closer to it, it seems smaller, like a pearl shining bright in the ocean.</value>
+	</data>
+	<data name="Anim-03" xml:space="preserve">
+		<value>The Taj Mahal is 73 metres in height and width. It was built in the most glorious period of the Mughal administration when they had both the power and the empire.
+On top of the dome you can see an upturned lotus and a brass finial shaped like a pot. Originally, the finial was made of gold, but later got replaced by gilded bronze. On the top of it, there is a moon pointing upwards, an expression of the quintessential Islamic motives.
+The dome is the most outstanding feature of the Taj Mahal that sits on a seven meters high cylindrical base. Building this perfect shape during that era was indeed an achievement in itself.
+The dome was built layer by layer, filled with mortar, and given a ring structure. Even without any structural support in terms of pillars or columns, the result was perfect and self-supporting.
+The dome is nearly 35 metres high with a dramatic necklace of inlay at its base. Exhibiting the most unique expression of Mughal architecture for 370 years, this dome is still admired by the engineers of today.
+Standing 55 meters tall, the main doorway of the tomb is adorned with such intricate pietra dura work that catches the attention the moment you reach there. The exquisite inlay work of precious and semiprecious stones on sparkling white marble depicts the opulence and class of the Mughals.
+The arched doorways facing the cardinal directions are flanked by slim walls divided into two storeys. Two arched windows together match the size of the central opening. All the doorways and lattice windows are bordered by rectangular frames decorated with inlaid calligraphic designs done in subtle colours.</value>
+	</data>
+	<data name="Anim-04" xml:space="preserve">
+		<value>This seven metre high huge square plinth is made of white marble. It is surrounded by four minarets and provides a base to the mausoleum.
+Each minaret is divided into three equal floors with two balconies. The rooftop is covered with a chhatri, exhibiting the same art form as seen in the tomb—the inward lotus and the finial.
+Facing the tomb, each on the western and eastern sides of the Taj Mahal, are two buildings that mirror each other in their design and architecture.
+This building is a mosque made up of red sandstone. The basic design of this mosque is similar to other mosques built by Shahjahan, such as Jama Masjid in Delhi. Beautiful black marble adorns the floor of this mosque.Look at the opposite side
+Notice that the building just opposite is a replica of the mosque, which is called 'jawab'. However, it cannot serve as a place to pray, because it is not built in the direction of Mecca. It is believed that this building was built to maintain the architectural symmetry and visual harmony of the Taj complex.
+Although, the three sides of the Taj complex are surrounded by crenelated red sandstone walls, the one, facing the River Yamuna, is kept open.
+At the sunset, a breathtaking view is created here when the reflection of the Taj Mahal creates its mirror image on the sparkling water of the River Yamuna.
+Another enchanting view of the Taj can be seen on a full moon night when this romantic edifice of white marble shines even brighter.</value>
+	</data>
+	<data name="Anim-05" xml:space="preserve">
+		<value>The most sublime, interior chamber of the Taj Mahal is the final resting place of the Shah Jahan's beloved. Surrounded with an octagonal panel of intricate marble screens called jali, the two cenotaphs, each of Shah Jahan and Mumtaz Mahal, tell the tale of eternal love. The chamber seems to be a different place—a world of love, devotion and passion!
+As far as sight reaches, every nook and corner of this chamber displays the supreme form of art and architecture. Bejeweled with lapidary of precious and semiprecious gemstones, the artwork of this chamber reflects the dedication of the artisans who turned this building into an architectural marvel of the world.</value>
+	</data>
+	<data name="Anim-06" xml:space="preserve">
+		<value>According to the Muslim tradition, the fancy decoration of graves is prohibited. Therefore, the bodies of Mumtaz and Shah Jahan have been put in a plain burial chamber below the inner chamber. Mumtaz Mahal's cenotaph is placed right at the centre. Probably the only asymmetric element in the entire complex, Shah Jahan's cenotaph has been put beside his wife's, which is slightly bigger than that of Mumtaz Mahal's. Both the cenotaphs have been decorated with lapidary and calligraphy done with precious and semiprecious gems and stones.</value>
+	</data>
+	<data name="Anim-07" xml:space="preserve">
+		<value>For five days in a month, the night of the full moon and two nights before and after it, visitors can take the Taj Mahal tour in the evening as well.
+No wonder the visitors who are lucky enough to visit the Taj on the night of a full moon, take the best memories home.
+Since 2006, the Taj Mahal has been under strict supervision and is guarded around the clock.
+Despite, this symbol of love, a monument built with passion, the Taj Mahal will remain a true colossal structure that marks the history of India.</value>
+	</data>
+	<data name="Blank" xml:space="preserve">
+		<value>New Value</value>
+	</data>
+	<data name="ButtonIntroBg" xml:space="preserve">
+		<value>Choose_Language</value>
+	</data>
+	<data name="C_Btn_ActivityMenu" xml:space="preserve">
+		<value>Activity menu</value>
+	</data>
+	<data name="C_Btn_No" xml:space="preserve">
+		<value>No</value>
+	</data>
+	<data name="C_Btn_Quit" xml:space="preserve">
+		<value>Quit</value>
+	</data>
+	<data name="C_Btn_RestartActivity" xml:space="preserve">
+		<value>Restart activity</value>
+	</data>
+	<data name="C_Btn_Resume" xml:space="preserve">
+		<value>Resume</value>
+	</data>
+	<data name="C_Btn_Yes" xml:space="preserve">
+		<value>Yes</value>
+	</data>
+	<data name="C_Inst_QuitMessage" xml:space="preserve">
+		<value>Are you sure you want to quit?</value>
+	</data>
+	<data name="Close" xml:space="preserve">
+		<value>Click here</value>
+	</data>
+	<data name="Home" xml:space="preserve">
+		<value>Home</value>
+	</data>
+	<data name="Menu" xml:space="preserve">
+		<value>Menu</value>
+	</data>
+	<data name="Ost1" xml:space="preserve">
+		<value>Move your head to observe the surroundings of the Taj Mahal and with the help of your joystick, reach the first tag point</value>
+	</data>
+	<data name="Ost2" xml:space="preserve">
+		<value>Now, move to the next tag point</value>
+	</data>
+	<data name="Ost3" xml:space="preserve">
+		<value>Follow the arrows to move to the inner chamber</value>
+	</data>
+	<data name="Ost4" xml:space="preserve">
+		<value>Follow the arrows to move to the lower chamber</value>
+	</data>
+	<data name="Ost5" xml:space="preserve">
+		<value>Follow the arrows to exit and reach the next tag point</value>
+	</data>
+	<data name="Ost6" xml:space="preserve">
+		<value>Click Day/Night Mode to view the night view of the Taj Mahal</value>
+	</data>
+	<data name="Restart" xml:space="preserve">
+		<value>Restart</value>
+	</data>
+	<data name="StartingMainGate" xml:space="preserve">
+		<value>Starting from the main gate to the square base of mausoleum, the Taj complex is surrounded by beautiful gardens, flower beds, water channels, and fountains.
+These gardens are divided into four square gardens of 300 metres by 300 metres each, with two main walkways and narrow cross-axial walkways for each, based on the ‘Persian Timurid’ style of garden.
+The beauty of these gardens is enhanced with this fountain in the middle.
+The water channels down the centre of the garden exhibit a perfect symmetry of this architecture. And reflecting in these water channels is the centre of attraction of this complex—the crown of the palace—the Taj Mahal.</value>
+	</data>
+	<data name="Step_1" xml:space="preserve">
+		<value>The Taj Mahal</value>
+	</data>
+	<data name="Step_2" xml:space="preserve">
+		<value>How it was built?</value>
+	</data>
+	<data name="Step_3" xml:space="preserve">
+		<value>The Taj complex</value>
+	</data>
+	<data name="Step_4" xml:space="preserve">
+		<value>The mausoleum</value>
+	</data>
+	<data name="Step_5" xml:space="preserve">
+		<value>The night view</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>Taj Mahal–The Memorial Legacy of Love</value>
+	</data>
+	<data name="TajOK" xml:space="preserve">
+		<value>OK</value>
+	</data>
+	<data name="CompleteTourTxt" xml:space="preserve">
+		<value>You have completed this virtual tour. Select OK to return to the menu where you can exit.</value>
+	</data>
+</root>

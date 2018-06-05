@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartCultureCollections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <version>0</version>
+  <CultureInfos>
+    <CultureInfo>
+      <languageCode>ar</languageCode>
+      <englishName>Arabic</englishName>
+      <nativeName>العربية</nativeName>
+      <isRightToLeft>true</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>en-US</languageCode>
+      <englishName>English (United States)</englishName>
+      <nativeName>English (United States)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>fr-FR</languageCode>
+      <englishName>French (France)</englishName>
+      <nativeName>français (France)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>pt-BR</languageCode>
+      <englishName>Portuguese (Brazil)</englishName>
+      <nativeName>português (Brasil)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>ru-RU</languageCode>
+      <englishName>Russian (Russia)</englishName>
+      <nativeName>Русский (Россия)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>hi-IN</languageCode>
+      <englishName>Hindi (India)</englishName>
+      <nativeName>हिंदी (भारत)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>zh-CN</languageCode>
+      <englishName>Chinese (China)</englishName>
+      <nativeName>中文 (中国)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>en-GB</languageCode>
+      <englishName>English (United Kingdom)</englishName>
+      <nativeName>English (United Kingdom)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>es-ES</languageCode>
+      <englishName>Spanish (Spain)</englishName>
+      <nativeName>español (España)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+  </CultureInfos>
+</SmartCultureCollections>

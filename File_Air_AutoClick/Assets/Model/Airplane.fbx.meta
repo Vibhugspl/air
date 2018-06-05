@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 9234e2546ff73f149aa659862dffbf13
+timeCreated: 1523690000
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CabineDWall2
+    100004: CabineDWall_2
+    100006: CabineWall
+    100008: CabineWall1
+    100010: CabinFloor
+    100012: Chair_00100
+    100014: Chair_00101
+    100016: Chair_00102
+    100018: Chair_00103
+    100020: Chair_0098
+    100022: Chair_0099
+    100024: Cover
+    100026: Curtains2
+    100028: Curtains3
+    100030: Celling
+    100032: Cellingouter
+    100034: CellingSide
+    100036: Sidebox
+    100038: Sidebox1
+    100040: Sidebox2
+    100042: Sidebox3
+    100044: CabineWall2
+    100046: CabineWall3
+    100048: CabineWall4
+    100050: CabineWall5
+    100052: CabinFloor1
+    100054: CabinFloor2
+    100056: LastWall
+    100058: LastWall1
+    400000: //RootNode
+    400002: CabineDWall2
+    400004: CabineDWall_2
+    400006: CabineWall
+    400008: CabineWall1
+    400010: CabinFloor
+    400012: Chair_00100
+    400014: Chair_00101
+    400016: Chair_00102
+    400018: Chair_00103
+    400020: Chair_0098
+    400022: Chair_0099
+    400024: Cover
+    400026: Curtains2
+    400028: Curtains3
+    400030: Celling
+    400032: Cellingouter
+    400034: CellingSide
+    400036: Sidebox
+    400038: Sidebox1
+    400040: Sidebox2
+    400042: Sidebox3
+    400044: CabineWall2
+    400046: CabineWall3
+    400048: CabineWall4
+    400050: CabineWall5
+    400052: CabinFloor1
+    400054: CabinFloor2
+    400056: LastWall
+    400058: LastWall1
+    2300000: CabineDWall2
+    2300002: CabineDWall_2
+    2300004: CabineWall
+    2300006: CabineWall1
+    2300008: CabinFloor
+    2300010: Chair_00100
+    2300012: Chair_00101
+    2300014: Chair_00102
+    2300016: Chair_00103
+    2300018: Chair_0098
+    2300020: Chair_0099
+    2300022: Cover
+    2300024: Curtains2
+    2300026: Curtains3
+    2300028: Celling
+    2300030: Cellingouter
+    2300032: CellingSide
+    2300034: Sidebox
+    2300036: Sidebox1
+    2300038: Sidebox2
+    2300040: Sidebox3
+    2300042: CabineWall2
+    2300044: CabineWall3
+    2300046: CabineWall4
+    2300048: CabineWall5
+    2300050: CabinFloor1
+    2300052: CabinFloor2
+    2300054: LastWall
+    2300056: LastWall1
+    3300000: CabineDWall2
+    3300002: CabineDWall_2
+    3300004: CabineWall
+    3300006: CabineWall1
+    3300008: CabinFloor
+    3300010: Chair_00100
+    3300012: Chair_00101
+    3300014: Chair_00102
+    3300016: Chair_00103
+    3300018: Chair_0098
+    3300020: Chair_0099
+    3300022: Cover
+    3300024: Curtains2
+    3300026: Curtains3
+    3300028: Celling
+    3300030: Cellingouter
+    3300032: CellingSide
+    3300034: Sidebox
+    3300036: Sidebox1
+    3300038: Sidebox2
+    3300040: Sidebox3
+    3300042: CabineWall2
+    3300044: CabineWall3
+    3300046: CabineWall4
+    3300048: CabineWall5
+    3300050: CabinFloor1
+    3300052: CabinFloor2
+    3300054: LastWall
+    3300056: LastWall1
+    4300000: CabineWall1
+    4300002: CabineWall
+    4300004: CabinFloor
+    4300006: CabineDWall_2
+    4300008: Curtains2
+    4300010: Curtains3
+    4300012: CabineDWall2
+    4300014: Cover
+    4300016: Chair_0098
+    4300018: Chair_0099
+    4300020: Chair_00100
+    4300022: Chair_00101
+    4300024: Chair_00102
+    4300026: Chair_00103
+    4300028: Celling
+    4300030: CellingSide
+    4300032: Cellingouter
+    4300034: Sidebox
+    4300036: Sidebox2
+    4300038: Sidebox3
+    4300040: Sidebox1
+    4300042: CabineWall4
+    4300044: CabineWall5
+    4300046: LastWall1
+    4300048: CabinFloor2
+    4300050: CabinFloor1
+    4300052: CabineWall2
+    4300054: CabineWall3
+    4300056: LastWall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
